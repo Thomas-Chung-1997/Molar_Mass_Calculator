@@ -1,0 +1,10 @@
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\bin\Debug\ICA05_MolarMassCalculator.exe.config
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\bin\Debug\ICA05_MolarMassCalculator.exe
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\bin\Debug\ICA05_MolarMassCalculator.pdb
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.csprojAssemblyReference.cache
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.MainForm.resources
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.Properties.Resources.resources
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.csproj.GenerateResource.cache
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.exe
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.pdb

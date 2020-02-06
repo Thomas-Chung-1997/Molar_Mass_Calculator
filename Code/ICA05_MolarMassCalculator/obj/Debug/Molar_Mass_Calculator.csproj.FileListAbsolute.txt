@@ -1,0 +1,19 @@
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\bin\Debug\ICA05_MolarMassCalculator.exe.config
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\bin\Debug\ICA05_MolarMassCalculator.exe
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\bin\Debug\ICA05_MolarMassCalculator.pdb
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\Molar_Mass_Calculator.MainForm.resources
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.Properties.Resources.resources
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\Molar_Mass_Calculator.csproj.GenerateResource.cache
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\Molar_Mass_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.exe
+C:\Users\Thoma\Desktop\MMM\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.pdb
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\bin\Debug\ICA05_MolarMassCalculator.exe.config
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\bin\Debug\ICA05_MolarMassCalculator.exe
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\bin\Debug\ICA05_MolarMassCalculator.pdb
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\obj\Debug\Molar_Mass_Calculator.csprojAssemblyReference.cache
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\obj\Debug\Molar_Mass_Calculator.MainForm.resources
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.Properties.Resources.resources
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\obj\Debug\Molar_Mass_Calculator.csproj.GenerateResource.cache
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\obj\Debug\Molar_Mass_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.exe
+C:\Users\Thoma\Desktop\Molar Mass Calculator\Code\ICA05_MolarMassCalculator\obj\Debug\ICA05_MolarMassCalculator.pdb
